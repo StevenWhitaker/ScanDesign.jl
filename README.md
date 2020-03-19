@@ -1,10 +1,7 @@
 # ScanDesign.jl
 This package implements an MRI scan parameter optimization technique
 presented in
-[G. Nataraj, J.-F. Nielsen, and J. A. Fessler. Optimizing MR Scan Design
-for Model-Based T1, T2 Estimation from Steady-State Sequences.
-IEEE Trans. Med. Imag., 36(2):467-77, February 2017]
-(https://ieeexplore.ieee.org/document/7582547).
+[G. Nataraj, J.-F. Nielsen, and J. A. Fessler. Optimizing MR Scan Design for Model-Based T1, T2 Estimation from Steady-State Sequences. IEEE Trans. Med. Imag., 36(2):467-77, February 2017](https://ieeexplore.ieee.org/document/7582547).
 This code was inspired by the MATLAB code written by Gopal Nataraj,
 which can be found [here](https://github.com/gopal-nataraj/scn-dsgn).
 
